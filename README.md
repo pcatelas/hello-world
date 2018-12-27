@@ -1,2 +1,4 @@
 # hello-world
-hello world Tutorial
+hello Humans,
+
+Just follow the tutorial
